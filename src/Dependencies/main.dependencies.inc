@@ -8,3 +8,5 @@
 
 {---put your main dependencies registration here---}
 { container.add('db', TMySqlDbFactory.create()); }
+
+container.factory('ua', TUserAgentFactory.create());
