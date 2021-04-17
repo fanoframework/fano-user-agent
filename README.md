@@ -1,6 +1,6 @@
-# SCGI Fano Web Framework Skeleton Application
+# Fano Framework User-agent detection web application demo
 
-[SCGI](https://python.ca/scgi/protocol.txt) web application skeleton using Fano Framework, Pascal web application framework
+Web application example project to demonstrate how to detect client device using browser [user-agent identification](https://fanoframework.github.io/utilities/identifying-client-user-agent/) with Fano Framework `IUserAgent` interface.
 
 This project is generated using [Fano CLI](https://github.com/fanoframework/fano-cli)
 command line tools to help scaffolding web application using Fano Framework.
