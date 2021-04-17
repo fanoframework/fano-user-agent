@@ -19,14 +19,14 @@ command line tools to help scaffolding web application using Fano Framework.
 ### TLDR
 Make sure all requirements are met. Run
 ```
-$ git clone https://your-repo-hostname/fano-app.git --recursive
-$ cd fano-app
+$ git clone https://github.com/fanoframework/fano-user-agent.git --recursive
+$ cd fano-user-agent
 $ ./tools/config.setup.sh
 $ ./build.sh
-$ sudo fanocli --deploy-scgi=fano-app.fano
+$ sudo fanocli --deploy-scgi=user-agent.fano
 $ ./bin/app.cgi
 ```
-Open internet browser and go to `http://fano-app.fano`. You should see application.
+Open internet browser and go to `http://user-agent.fano`. You should see application.
 
 ### Free Pascal installation
 
